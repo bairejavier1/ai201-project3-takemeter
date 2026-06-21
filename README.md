@@ -4,6 +4,8 @@
 A fine-tuned text classifier that evaluates discourse quality in Joe Rogan Experience (JRE) YouTube comment sections, distinguishing between analytical comments, hot takes, and emotional reactions.
 
 ---
+## Walkthrough video
+https://www.loom.com/share/36b858ec28bc48069d288600c826cd7e
 
 ## Community Choice
 
